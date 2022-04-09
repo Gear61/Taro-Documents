@@ -1,8 +1,8 @@
 # PRIVACY NOTICE
 
-### Last updated January 10, 2022
+### Last updated April 9, 2022
 
-Thank you for choosing to be part of our community at Savory ("Company", "we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at randomappsinc61@gmail.com.
+Thank you for choosing to be part of our community at Tech Career Growth ("Company", "we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at imberapp@gmail.com.
 
 When you use our mobile application, as the case may be (the "App") and more generally, use any of our services (the "Services", which include the App), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
 
@@ -16,8 +16,8 @@ Please read this privacy notice carefully as it will help you understand what we
 2. DO WE MAKE UPDATES TO THIS NOTICE?
 3. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-## 1. WHAT INFORMATION DO WE COLLECT?
-The Tech Career Growth mobile apps are local utility apps, which means that they don't have accounts and don't even access the internet with the exception of playing the video content embedded within it. Because of this, the Tech Career Growth apps respect your privacy in the ultimate way: By collecting 0 data about you.
+## 1. WHAT INFORMATION DO WE COLLECT AND HOW DO WE USE IT?
+The Tech Career Growth mobile app only collects information necessary for it to function like your email/profile information (if applicable) when creating your account and what content you consume within it. Your data is kept entirely private and isn't shared with any other parties.
 
 ## 2. DO WE MAKE UPDATES TO THIS NOTICE?     
 In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
